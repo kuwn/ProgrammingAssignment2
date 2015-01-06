@@ -2,7 +2,8 @@
 ## check whether this inverse had already been calculated.
 ## If so one of these functions search this inverse 
 ## in cache, and return the inverse directly.
-## If not, the same function will calculate the inverse.
+## If not, the same function will calculate the inverse 
+## and cache it.
 
 ## This function creates a special "matrix" object that can cache 
 ## its inverse.
